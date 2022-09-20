@@ -1,0 +1,14 @@
+<?php
+
+// create database my_db;
+
+// use my_db;
+
+// create  table persons(
+//     id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+//     name VARCHAR(100) NOT NULL,
+//     email VARCHAR(100) NOT NULL UNIQUE,
+//     mobile  INT  NOT NULL
+// );
+
+?>
